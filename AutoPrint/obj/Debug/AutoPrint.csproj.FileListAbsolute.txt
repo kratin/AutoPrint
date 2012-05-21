@@ -1,0 +1,5 @@
+E:\TRAIN\GitHub\AutoPrint\AutoPrint\obj\Debug\ResolveAssemblyReference.cache
+E:\TRAIN\GitHub\AutoPrint\AutoPrint\bin\AutoPrint.dll
+E:\TRAIN\GitHub\AutoPrint\AutoPrint\bin\AutoPrint.pdb
+E:\TRAIN\GitHub\AutoPrint\AutoPrint\obj\Debug\AutoPrint.dll
+E:\TRAIN\GitHub\AutoPrint\AutoPrint\obj\Debug\AutoPrint.pdb
